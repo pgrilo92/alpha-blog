@@ -30,9 +30,24 @@ $navbar-default-bg: #000;
 .btn-lg {
     background-color: #000;
     font-size: 1.7em;
-    
-    
 }
+.article-actions {
+    border-top: 1px solid #aeaeae;
+    padding-top: 5px;
+}
+.article-description{
+    margin-top: 0;
+}
+.article-title{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.article-body{
+    border-top: 1px solid #eaeaea;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
 footer{
     margin-top: 40px;
     padding-top: 5px;
